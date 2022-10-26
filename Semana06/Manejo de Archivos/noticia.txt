@@ -1,0 +1,16 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Oct 26 10:07:00 2022
+
+@author: UPEU
+"""
+Las restricciones por COVID-19 en China afectan a la mayor fábrica de iPhone en el mundo
+La fábrica de Zhengzhou de la compañía taiwanesa FoxConn emplea a unas 300 mil personas.
+Millones de personas en China quedaron el miércoles bajo estrictas restricciones debido a brotes esporádicos de COVID-19 que provocaron cierres de negocios y perturbaciones en la mayor fábrica de teléfonos iPhone del mundo.
+
+China es la única gran economía del mundo que mantiene una estrategia “cero covid”, aplicando repentinos confinamientos, test masivos y largas cuarentenas para erradicar la circulación del virus en su territorio.
+
+El país, donde empiezan a aparecer muestras de disconformidad por esta política, registró 1,241 nuevos casos positivos el miércoles, la mayoría asintomáticos, según la Comisión Nacional de Salud.
+
+Entre estos casos figura un brote en una fábrica en la ciudad de Zhengzhou (centro), que emplea unas 300 mil personas y es conocida por ser la mayor productora de iPhone del mundo.
+Fuente:RPP
